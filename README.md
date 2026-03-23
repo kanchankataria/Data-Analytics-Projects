@@ -14,7 +14,7 @@ This project is an interactive Power BI dashboard that analyzes credit card defa
 **Findings**
 **Age Group:** The 30-40 age group carries the highest default volume (4.1bn), making them the most financially vulnerable segment  
 **Education:** University-educated customers had the highest defaulter count (~3K), showing that education alone does not prevent financial risk  
-**Gender: **Female customers showed a slightly higher defaulter count (~4K) vs Male (~3K)  
+**Gender:** Female customers showed a slightly higher defaulter count (~4K) vs Male (~3K)  
 **Marital Status:** Single and Married individuals had nearly equal default rates (~3K each), suggesting marital status is not a strong differentiator  
 **Credit Limit:** Non-Defaulters hold a significantly higher average credit limit (0.18M) vs Defaulters (0.13M)  
 **Billing Trends:** Monthly bill amounts remained stable (1.2bn to 1.5bn range), suggesting systemic and ongoing repayment challenges  
